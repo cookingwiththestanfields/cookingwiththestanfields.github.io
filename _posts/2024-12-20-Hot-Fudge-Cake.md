@@ -11,7 +11,7 @@ tags: [ cake] # tag names must be lowercase
 
 # Batter
 * 1.5 cups sugar
-* 2 teaspoons vanilla
+* 2 teaspoons vanilla extract
 * 2 cups self rising flour
 * 4 tablespoons cocoa
 * 1 cup milk
