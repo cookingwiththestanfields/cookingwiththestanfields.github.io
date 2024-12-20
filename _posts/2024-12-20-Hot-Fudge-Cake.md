@@ -29,6 +29,6 @@ tags: [ ] # tag names must be lowercase
 * Bake 50 minutes in preheated oven at 350
 
 # Comments
-Very good "enjoy with ice cream"
+* Very good "enjoy with ice cream"
 
-Love from Aunt Rose (2022)
+* Love from Aunt Rose (2022)
