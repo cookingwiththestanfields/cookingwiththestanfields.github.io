@@ -2,7 +2,7 @@
 title: Hot Fudge Cake
 date: 2024-12-20 12:00:00
 categories: [Dessert ] 
-tags: [ ] # tag names must be lowercase
+tags: [ cake] # tag names must be lowercase
 ---
 
 # Hot Fudge Cake - Aunt Rose 
